@@ -1,0 +1,9 @@
+---
+title: "My story title"
+author: "Cristina Zhong"
+format: html
+---
+
+For the past year, a pair of plain-looking buildings has been at the center of a simmering conflict in a close-knit waterfront community in New York City. They look like warehouses, with tall concrete walls, loading bays and few windows. They sound like warehouses, emitting the rev of diesel engines and the chirps of reversing trucks. But by all accounts, they’re something very different.
+
+The two newcomers to Brooklyn’s Red Hook neighborhood are hubs for Amazon’s growing last-mile delivery network. Unlike traditional warehouses, they’re bustling with around-the-clock activity, attracting convoys of cars, delivery vans, and semi-trucks to a neighborhood of narrow two-lane streets. Every day, shipments jostle through Red Hook’s crowded truck routes and make their way across New York, fulfilling Amazon’s promise of blistering-fast delivery.

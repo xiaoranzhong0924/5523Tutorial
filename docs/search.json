@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My story title",
+    "section": "",
+    "text": "For the past year, a pair of plain-looking buildings has been at the center of a simmering conflict in a close-knit waterfront community in New York City. They look like warehouses, with tall concrete walls, loading bays and few windows. They sound like warehouses, emitting the rev of diesel engines and the chirps of reversing trucks. But by all accounts, they’re something very different.\nThe two newcomers to Brooklyn’s Red Hook neighborhood are hubs for Amazon’s growing last-mile delivery network. Unlike traditional warehouses, they’re bustling with around-the-clock activity, attracting convoys of cars, delivery vans, and semi-trucks to a neighborhood of narrow two-lane streets. Every day, shipments jostle through Red Hook’s crowded truck routes and make their way across New York, fulfilling Amazon’s promise of blistering-fast delivery."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  }
+]
